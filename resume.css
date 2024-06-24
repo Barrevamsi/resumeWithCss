@@ -1,0 +1,14 @@
+.div{
+    display: flex; 
+    justify-content:space-between;
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+p{
+    font: size 14px;
+    font-style: oblique;
+}
+#img{
+    float: right;
+}
